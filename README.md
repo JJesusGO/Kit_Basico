@@ -4,7 +4,7 @@ Este es el un kit basico para el desarrollo de aplicaciones multimedia interacti
 
 # Descargas
 
-- [KitBasico 1.0f0](https://rawgithub.com/TheReaperScythe/Kit_Basico/edit/master/Versiones/KitBasico_1_0f0.unitypackage)
+- [KitBasico 1.0f0](https://rawgit.com/TheReaperScythe/Kit_Basico/edit/master/Versiones/KitBasico_1_0f0.unitypackage)
 
 # Retroalimentacion/Reporte de Bugs
 
