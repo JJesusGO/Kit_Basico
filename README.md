@@ -4,7 +4,7 @@
 
 # Descargas
 
-- [KitBasico 1.0f0](https://cdn.rawgit.com/TheReaperScythe/Kit_Basico/edit/master/Versiones/KitBasico_1_0f0.unitypackage)
+- [KitBasico 1.0f0](Versiones/KitBasico_1_0f0.unitypackage)
 
 # Retroalimentacion/Reporte de Bugs
 
