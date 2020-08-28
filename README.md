@@ -4,7 +4,7 @@
 
 # Descargas
 
-- [KitBasico 1.0f0](Versiones/KitBasico_1_0f0.unitypackage)
+- [KitBasico 1.0f0](http://download939.mediafire.com/bauo32v5kfcg/wwtdu4oyvwtptkp/KitBasico_1_0f0.unitypackage)
 
 # Retroalimentacion/Reporte de Bugs
 
