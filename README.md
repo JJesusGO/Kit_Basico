@@ -4,8 +4,8 @@ Este es el un kit basico para el desarrollo de aplicaciones multimedia interacti
 
 # Descargas
 
-- [KitBasico 1.0f0](wget Versiones/KitBasico_1_0f0.unitypackage)
+- [KitBasico 1.0f0](https://raw.github.com/TheReaperScythe/Kit_Basico/edit/master/Versiones/KitBasico_1_0f0.unitypackage)
 
 # Retroalimentacion/Reporte de Bugs
 
-En caso de detectar fallas o errores en la implementación del código, favor de enviar mensaje al correo *thereaperscythe@hotmail.com*, con el asunto *DMI_<Apellidos>*. Las respuestas se darán en un periodo de 2 a 3 días máximo.
+En caso de detectar fallas o errores en la implementación del código, favor de enviar mensaje al correo *thereaperscythe@hotmail.com*, con el asunto *DMI_Apellidos*. Las respuestas se darán en un periodo de 2 a 3 días máximo.
